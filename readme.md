@@ -1,5 +1,5 @@
 # Multithreading
-Implement the `Task:` in [src/logger.hpp](src/logger.hpp).
+Implemented `Task:` in [src/logger.hpp](src/logger.hpp).
 
 ## Windows
 Required [Visual Studio Community 2022](https://visualstudio.microsoft.com/vs/community/) components.
